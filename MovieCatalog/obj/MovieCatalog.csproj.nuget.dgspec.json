@@ -1,0 +1,91 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/antoanetahristova/Desktop/MovieCatalogRepo/MovieCatalog/MovieCatalog.csproj": {}
+  },
+  "projects": {
+    "/Users/antoanetahristova/Desktop/MovieCatalogRepo/MovieCatalog/MovieCatalog.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/antoanetahristova/Desktop/MovieCatalogRepo/MovieCatalog/MovieCatalog.csproj",
+        "projectName": "MovieCatalog",
+        "projectPath": "/Users/antoanetahristova/Desktop/MovieCatalogRepo/MovieCatalog/MovieCatalog.csproj",
+        "packagesPath": "/Users/antoanetahristova/.nuget/packages/",
+        "outputPath": "/Users/antoanetahristova/Desktop/MovieCatalogRepo/MovieCatalog/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/antoanetahristova/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.1.0, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.13.3, )"
+            },
+            "NUnit.Analyzers": {
+              "target": "Package",
+              "version": "[3.3.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[4.2.1, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.4, )"
+            },
+            "RestSharp": {
+              "target": "Package",
+              "version": "[114.0.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.121/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
